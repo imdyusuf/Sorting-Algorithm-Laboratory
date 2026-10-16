@@ -397,7 +397,7 @@ export default function App() {
       <header className="site-header">
         <a className="brand" href="#top" aria-label="Algo Lab home"><span className="brand-mark"><span /><span /><span /><span /></span><span className="brand-copy"><strong>ALGO<span>/</span>LAB</strong><small>Interactive sorting laboratory</small></span></a>
         <nav className="header-nav" aria-label="Primary navigation"><a href="#workspace">Workspace</a><a href="#insights">Insights</a><a href="#comparison">Compare</a></nav>
-        <a className="github-link" href="https://github.com/" target="_blank" rel="noreferrer"><Icon name="github" size={17} /><span>Repository</span><Icon name="external" size={13} /></a>
+        <a className="github-link" href="https://github.com/imdyusuf/Sorting-Algorithm-Laboratory" target="_blank" rel="noreferrer"><Icon name="github" size={17} /><span>Repository</span><Icon name="external" size={13} /></a>
       </header>
 
       <main id="top">
